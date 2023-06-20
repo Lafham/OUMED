@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<doc>
+    <taggersent>
+        <taggertoken wordform="Il" lemma="il" pos="PRO"/>
+        <taggertoken wordform="était" lemma="être" pos="VER:sg"/>
+        <taggertoken wordform="une" lemma="un" pos="DET:femi:sg"/>
+        <taggertoken wordform="fois" lemma="fois" pos="NOM:femi:sg"/>
+        <taggertoken wordform="," lemma="," pos="PUN"/>
+        <taggertoken wordform="les" lemma="le" pos="DET:masc:pl"/>
+        <taggertoken wordform="voleurs" lemma="voleur" pos="NOM:masc:pl"/>
+        <taggertoken wordform="étaient" lemma="étayer|être" pos="VER:pl"/>
+        <taggertoken wordform="dans" lemma="dans" pos="PRP"/>
+        <taggertoken wordform="la" lemma="le" pos="DET:femi:sg"/>
+        <taggertoken wordform="forêt" lemma="forêt" pos="NOM:femi:sg"/>
+        <taggertoken wordform="." lemma="." pos="PUN"/>
+    </taggersent>
+</doc>
